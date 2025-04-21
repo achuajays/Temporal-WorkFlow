@@ -1,0 +1,6 @@
+protobuf==6.30.2
+python-dateutil==2.9.0.post0
+six==1.17.0
+temporalio==1.10.0
+types-protobuf==5.29.1.20250403
+typing_extensions==4.13.2
