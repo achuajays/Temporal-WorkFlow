@@ -1,6 +1,3 @@
-### 📁 `README.md`
-
-
 # 📂 Temporal File Transfer Automation
 
 This project automates file transfers between folders using [Temporal](https://temporal.io/). It runs two workflows:
@@ -25,8 +22,8 @@ Both workflows are scheduled to run every **1 minute**.
 
 1. **Clone this repo**
    ```bash
-   git clone https://github.com/your-user/temporal-file-transfer
-   cd temporal-file-transfer
+   git clone https://github.com/achuajays/Temporal-WorkFlow.git
+   cd Temporal-WorkFlow
    ```
 
 2. **Create and activate virtual environment**
