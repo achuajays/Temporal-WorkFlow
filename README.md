@@ -96,14 +96,6 @@ To stop everything:
 docker-compose down
 ```
 
----
-
-## 🧠 Future Ideas
-
-- Add workflow retry policies
-- Send notifications after each move
-- Support S3 or remote storage
-- Make folders configurable via `.env`
 
 ---
 
