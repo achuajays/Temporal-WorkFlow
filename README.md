@@ -1,6 +1,6 @@
 ### 📁 `README.md`
 
-```markdown
+
 # 📂 Temporal File Transfer Automation
 
 This project automates file transfers between folders using [Temporal](https://temporal.io/). It runs two workflows:
